@@ -11,3 +11,14 @@
     color: greenyellow;
     font-weight: bold;
 }
+.box{
+    width: 300px;
+    height: 300px;
+}
+#webapp{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+}
+
